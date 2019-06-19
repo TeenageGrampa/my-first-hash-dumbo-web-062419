@@ -25,8 +25,6 @@ def retrieval
   
 end
 
-hash["oil paintings"]
-
 def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
